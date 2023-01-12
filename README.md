@@ -1,3 +1,5 @@
+![Computer Class](https://user-images.githubusercontent.com/121875741/212154256-a59f9e08-cb32-4ae4-94fe-20c2efdfdde0.png)
+
 
 #  <h2> Ola!! eu sou a Guilherme Frigotto , um curioso estudante de Front-End, procurando crescer ainda mais neste universo fantástico!</h2>
 
